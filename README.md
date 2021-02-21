@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Jeffrey Asuncion
 #### Data Scientist, with a passionate focus on Data Visualizations and Machine Learning algorithms.
-![Data Scientist, with a passionate focus on Data Visualizations and Machine Learning algorithms.](https://JeffreyAsuncion.github.io/img/DeepLearningBanner.jpg)
+![Data Scientist, with a passionate focus on Data Visualizations and Machine Learning algorithms.](https://JeffreyAsuncion.github.io/img/Python-Code-Image-696x464.jpg)
 
 * Taking Machine Learning and AI to the next level
 * Problem solving and troubleshooting
