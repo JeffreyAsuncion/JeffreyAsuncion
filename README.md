@@ -13,12 +13,12 @@ Skills: Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |
 
 
 
-- 🔭 I’m currently working on ... Portfolio Projects
-- 🌱 I’m currently learning ... Javascript, Node.js
-- 👯 I’m looking to collaborate on ... Machine Learning Projects
-- 🤔 I’m looking for help with ... Java
+- 🔭 I’m currently working on ... AWS Solution Architect Associate Exam
+- 🌱 I’m currently learning ... Javascript, Node.js, C#
+- 👯 I’m looking to collaborate on ... ETL and ELT
+- 🤔 I’m looking for help with ... C#
 - 💬 Ask me about ... Linux
 - 📫 How to reach me: ... jeffrey.l.asuncion@gmail.com
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I train in the Korean Sword Art of Haidong Gumdo
+- ⚡ Fun fact: ... I train in the Korean Sword Art of Haidong Gumdo / Hwa Rang Do
 -->
