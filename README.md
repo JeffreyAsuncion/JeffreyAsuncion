@@ -9,12 +9,12 @@
 * Problem solving and troubleshooting
 * Helping others along the way
 
-Skills: Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |  MongoDB | TensorFlow | Pandas  Scikit-learn | Numpy | SpaCy |  NLTK |  NLP | Machine Learning | Flask | FastAPI | git | GitHub Heroku | AWS | EC2 | Elastic Beanstalk | AWS RDS Postgres | Docker |   SQLite | Postgresql VSCode | IntelliJ | Pycharm | Vim | nano | Linux | Ubuntu |  CICD | Scalability |  Unit Testing
+Skills: SQL SERVER | SSIS | Query Tuning and Optimization | Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |  MongoDB | TensorFlow | Pandas  Scikit-learn | Numpy | SpaCy |  NLTK |  NLP | Machine Learning | Flask | FastAPI | git | GitHub Heroku | AWS | EC2 | Elastic Beanstalk | AWS RDS Postgres | Docker |   SQLite | Postgresql VSCode | IntelliJ | Pycharm | Vim | nano | Linux | Ubuntu |  CICD | Scalability |  Unit Testing
 
 
 
-- 🔭 I’m currently working on ... AWS Solution Architect Associate Exam
-- 🌱 I’m currently learning ... Javascript, Node.js, C#
+- 🔭 I’m currently working on ... AWS Certitifed Solution Architect Associate Exam
+- 🌱 I’m currently learning ... Query Tuning and Optimization
 - 👯 I’m looking to collaborate on ... ETL and ELT
 - 🤔 I’m looking for help with ... C#
 - 💬 Ask me about ... Linux
