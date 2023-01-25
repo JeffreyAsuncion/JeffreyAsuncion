@@ -15,9 +15,9 @@ Skills: SQL SERVER | SSIS | SSAS | SSRS | Query Tuning and Optimization | Python
 
 - 🔭 I’m currently working on ... AWS Certitifed Solution Architect Associate Exam
 - 🌱 I’m currently learning ... Korean, Cantonese, I love to learn languages 
-- 👯 I’m looking to collaborate on ... ETL and ELT
+- 👯 I’m looking to collaborate on ... ML and AI pipelines
 - 🤔 I’m looking for help with ... C#, Java
-- 💬 Ask me about ... Linux
+- 💬 Ask me about ... Job Searching in 2023.
 - 📫 How to reach me: ... jeffrey.l.asuncion@gmail.com
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I train in the Korean Sword Art of Haidong Gumdo / Hwa Rang Do
