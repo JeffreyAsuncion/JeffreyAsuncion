@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Jeffrey Asuncion
 #### Python Developer/Data Engineer, with a passionate focus on ETL/ELT and Machine Learning algorithms.
-![Python Developer/Data Engineer, with a passionate focus on ETL/ELT and Machine Learning algorithms.](https://JeffreyAsuncion/JeffreyAsuncion/dataPic.jpeg)
+![Python Developer/Data Engineer, with a passionate focus on ETL/ELT and Machine Learning algorithms.](https://JeffreyAsuncion/dataPic.jpeg)
 
 * Results-driven Data Engineer with a strong background in designing and implementing robust data solutions.
 * Proficient in data modeling, ETL (Extract, Transform, Load) processes, and database management systems. Skilled in optimizing data pipelines, ensuring data integrity, and enhancing system performance.
