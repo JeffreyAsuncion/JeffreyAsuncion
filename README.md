@@ -11,14 +11,3 @@
 
 Skills: SQL SERVER | SSIS | SSAS | SSRS | Query Tuning and Optimization | Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |  MongoDB | TensorFlow | Pandas | Scikit-learn | Numpy | SpaCy |  NLTK |  NLP | Machine Learning | Flask | FastAPI | git | GitHub Heroku | EC2 | Elastic Beanstalk | AWS RDS Postgres | Docker |   SQLite | Postgresql VSCode | IntelliJ | Pycharm | Vim | nano | Linux | Ubuntu |  CICD | Scalability |  Unit Testing | AWS | Azure | GCP | Agile | Azure DevOps | AWS Certified Solutions Architect
 
-
-
-- 🔭 I’m currently working on ... Creating Productionizing Machine Learning into Pipelines.
-- 🌱 I’m currently learning ... Cantonese, I love to learn languages 
-- 👯 I’m looking to collaborate on ... ML and AI pipelines
-- 🤔 I’m looking for help with ... C#, Java
-- 💬 Ask me about ... Job Searching in 2023.
-- 📫 How to reach me: ... jeffrey.l.asuncion@gmail.com
-- 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I train in the Korean Sword Art of Haidong Gumdo / Hwa Rang Do
--->
