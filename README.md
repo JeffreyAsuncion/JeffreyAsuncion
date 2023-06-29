@@ -8,6 +8,6 @@
 * Committed to maintaining data security and privacy while leveraging data to drive strategic decision-making.
 * Strong problem-solving and communication skills make me an effective contributor to complex data projects.
 
-###Skills
+### Skills
 SQL SERVER | SSIS | SSAS | SSRS | Query Tuning and Optimization | Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |  MongoDB | TensorFlow | Pandas | Scikit-learn | Numpy | SpaCy |  NLTK |  NLP | Machine Learning | Flask | FastAPI | git | GitHub Heroku | EC2 | Elastic Beanstalk | AWS RDS Postgres | Docker |   SQLite | Postgresql VSCode | IntelliJ | Pycharm | Vim | nano | Linux | Ubuntu |  CICD | Scalability |  Unit Testing | AWS | Azure | GCP | Agile | Azure DevOps | AWS Certified Solutions Architect
 
