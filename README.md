@@ -5,7 +5,11 @@ Results-driven Data Engineer with a strong background in designing and implement
 
 ## Projects
 
+* https://github.com/JeffreyAsuncion/Youtube-Ad-Campaign-Data-Ingestion-to-Visualization 
 
+* https://github.com/JeffreyAsuncion/IndeedAndJobPosting_ETL_Pipline
+
+* https://github.com/JeffreyAsuncion/FileFormatConverter
 
 ### Skills
 SQL SERVER | SSIS | SSAS | SSRS | Query Tuning and Optimization | Python | Java | Javascript |  R |  C |  C++ | ETL | ELT |  SQL | nosql |  MongoDB | TensorFlow | Pandas | Scikit-learn | Numpy | SpaCy |  NLTK |  NLP | Machine Learning | Flask | FastAPI | git | GitHub Heroku | EC2 | Elastic Beanstalk | AWS RDS Postgres | Docker |   SQLite | Postgresql VSCode | IntelliJ | Pycharm | Vim | nano | Linux | Ubuntu |  CICD | Scalability |  Unit Testing | AWS | Azure | GCP | Agile | Azure DevOps | AWS Certified Solutions Architect
