@@ -5,10 +5,16 @@ Results-driven Data Engineer with a strong background in designing and implement
 
 ## Projects
 
+### Intelligent_Snake_AI : Machine Learning with Pytorch
+* https://github.com/JeffreyAsuncion/Intelligent_Snakes_AI
+
+### End-to-End Youtube Ad Campaign : ETL in AWS Cloud  
 * https://github.com/JeffreyAsuncion/Youtube-Ad-Campaign-Data-Ingestion-to-Visualization 
 
+### ETL, Web Scraping, Data Storage : Python
 * https://github.com/JeffreyAsuncion/IndeedAndJobPosting_ETL_Pipline
 
+### Preprocessing for ETL : Python
 * https://github.com/JeffreyAsuncion/FileFormatConverter
 
 ## Skills
