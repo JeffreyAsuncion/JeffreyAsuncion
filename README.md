@@ -14,6 +14,9 @@ Results-driven Data Engineer with a strong background in designing and implement
 ### ETL, Web Scraping, Data Storage : Python
 * https://github.com/JeffreyAsuncion/IndeedAndJobPosting_ETL_Pipline
 
+### Processing with Apache Spark and Python
+* https://github.com/JeffreyAsuncion/SparkAndPython_HandsON
+
 ### Preprocessing for ETL : Python
 * https://github.com/JeffreyAsuncion/FileFormatConverter
 
